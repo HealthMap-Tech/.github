@@ -1,9 +1,9 @@
-# HealthMap
+<img width="1367" alt="Asset 1@2x-8" src="https://github.com/user-attachments/assets/9045abfe-5713-4a5e-8279-91380a3420a4" />
 
-Welcome to the HealthMap organization profile!
 
 ---
 
+Welcome to the organization profile! 
 
 ### Make informed decisions with data-driven insights
 
@@ -18,7 +18,8 @@ Compare your rates against competitors. Identify where you're underpaid and leve
 * Analyze payer-specific reimbursement patterns
 * Track historical trends for strategic planning
 
-[Learn more](#) #### Market Discovery & Network Expansion
+[Learn more](#) 
+#### Market Discovery & Network Expansion
 
 Identify high-need providers based on reimbursement gaps and strategically grow your network with confidence.
 
