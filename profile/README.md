@@ -4,21 +4,6 @@ Welcome to the HealthMap organization profile!
 
 ---
 
-## You're Getting Underpaid. We Can Prove It.
-
-**HealthMap turns complex data into clear insights — helping healthcare organizations understand competitor rates, expand their network, and negotiate better contracts.**
-
-[![Schedule a Demo](https://img.shields.io/badge/Schedule%20a%20Demo-blue?style=for-the-badge&logo=calendar)](https://healthmap.co/#contact) ---
-
-## Navigation
-
-* [Our Solutions](#our-solutions)
-* [How It Works](#how-it-works)
-* [FAQs](#frequently-asked-questions)
-* [Contact Us](#contact-us)
-* [Login](#) ---
-
-## Our Solutions
 
 ### Make informed decisions with data-driven insights
 
@@ -41,8 +26,6 @@ Identify high-need providers based on reimbursement gaps and strategically grow 
 * Target by location or specialty
 * Prioritize opportunities by revenue potential
 * Monitor competitive landscape and market trends
-
-[Learn More](#) ---
 
 ## How It Works
 
@@ -68,22 +51,6 @@ HealthMap makes it easy to understand and leverage complex healthcare pricing da
     * Achieve: Better Contracts, Higher Revenue, Network Expansion, Smarter Growth.
 
 [Get Started Today](https://healthmap.co/#contact) ---
-
-## Frequently Asked Questions
-
-Common questions about HealthMap:
-
-* What is HealthMap?
-* How does HealthMap obtain pricing data?
-* How can HealthMap help my organization?
-* Who is HealthMap designed for?
-* How quickly can we implement HealthMap?
-* What kind of support does HealthMap provide?
-* Is my data secure with HealthMap?
-
-Have more questions? [Contact our team](#contact-us) for additional information.
-
----
 
 ## Contact Us
 
