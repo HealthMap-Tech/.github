@@ -1,4 +1,4 @@
-<img width="1367" alt="Asset 1@2x-8" src="https://github.com/user-attachments/assets/9045abfe-5713-4a5e-8279-91380a3420a4" />
+![healthmap-logo](https://github.com/user-attachments/assets/b960b286-4154-4f9d-a549-e9ca1605e3c4)
 
 
 ---
